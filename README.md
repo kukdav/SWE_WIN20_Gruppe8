@@ -1,1 +1,1 @@
-# iwi15calc
+# Gruppe 8 (Irma Pezo, Arijana Mujanovic, Michael Gratz, David Kukovic)
